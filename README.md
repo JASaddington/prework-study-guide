@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a prework study guide created for the UT Coding Bootcamp. It organizes information about HTML, CSS, Javascript, and Git in order to be easily accessible for reference in future projects. Creating it provided introductory practical experience in front-end and back-end development.
+This is a prework study guide created for the UT Coding Bootcamp. It organizes information about HTML, CSS, Javascript, and Git in order to be easily accessible for reference in future projects. Creating it provided introductory practical experience web development.
 
 ## Installation
 
